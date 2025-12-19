@@ -2,5 +2,5 @@
 
 | Name | Handle | Progress |
 |------|--------|----------|
-| Alex | [@alexcloudstar](https://twitter.com/alexcloudstar) | 2 / 30 |
+| Alex | [@alexcloudstar](https://twitter.com/alexcloudstar) | 3 / 30 |
 
